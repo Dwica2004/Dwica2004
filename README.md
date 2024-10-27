@@ -12,8 +12,8 @@ Building tools that simplify complex processes.
 If you have a cool project idea, let’s bring it to life together!
 📫 Get in Touch
 Email: dwicaadiwijayanto2@gmail.com
-LinkedIn: YourLinkedIn
-Twitter: @YourTwitter
+LinkedIn: Dwica Adi
+Twitter: @adi_dwica
 😄 Pronouns
 He/Him | She/Her | They/Them
 
