@@ -12,12 +12,4 @@
 #### 📫 Get in Touch
 - Email: dwicaadiwijayanto2@gmail.com
 - LinkedIn: [Dwica Adi](#)
-- Twitter: [@adi_dwica](https://)
-
-#### 😄 Pronouns
-- He/Him | She/Her | They/Them
-
-#### ⚡ Fun Fact
-When I'm not coding, you'll find me exploring nature trails, reading science fiction, or trying out new recipes in the kitchen!
-
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+- Twitter: [@adi_dwica](https://https://x.com/adi_dwica)
