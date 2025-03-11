@@ -18,7 +18,7 @@
 - 📧 Email: dwicaadiwijayanto2@gmail.com
 - 🌐 Website: https://taplink.cc/dwica
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 </td>
 <td width="50%">
