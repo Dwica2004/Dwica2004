@@ -40,40 +40,25 @@ const skills = {
 
 <div align="center">
 
-### 🎯 Tebak Angka
-<!-- Permainan Tebak Angka -->
-<a href="https://github.com/username?tab=repositories">
-<img src="https://raw.githubusercontent.com/mouredev/mouredev/master/mini-juego.png" alt="Mini Game" width="400">
-</a>
-
-### 🎲 Tic Tac Toe
-<!-- Permainan Tic Tac Toe -->
-| ⭕ | ⭕ | ❌ |
-|---|---|---|
-| ❌ | ⭕ | ⭕ |
-| ❌ | ❌ | ⭕ |
-
 ### 🎮 Snake Game
-<!-- Snake Game Animation -->
-```
-🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟩🟩🟩🟨⬛⬛⬛🟦
-🟦⬛⬛⬛🟩⬛⬛⬛🟦
-🟦⬛⬛⬛⬛⬛⬛⬛🟦
-🟦⬛⬛⬛⬛⬛⬛⬛🟦
-🟦⬛⬛⬛⬛⬛⬛⬛🟦
-🟦🟦🟦🟦🟦🟦🟦🟦🟦
-```
+![Snake animation](https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg)
+
+### 🎲 Mini Game
+<a href="https://github.com/Dwica2004?tab=repositories&q=game&type=&language=&sort=">
+<img width="500" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</a>
 
 </div>
 
 ## 📊 Statistik GitHub Saya
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwica2004&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dwica2004&theme=radical)](https://git.io/streak-stats)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Dwica2004&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dwica2004&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwica2004&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
