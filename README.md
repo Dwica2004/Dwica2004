@@ -8,17 +8,11 @@
 
 ## 👨‍💻 Tentang Saya
 
-```javascript
-const dwicaAdi = {
-    lokasi: "Indonesia, Jawa Timur, Kota Blitar",
-    status: "Newbiee Developer",
-    belajar: ["HTML", "CSS", "JavaScript", "PHP", "Laravel", "MySQL/PostgreSQL"],
-    kontak: {
-        email: "dwicaadiwijayanto2@gmail.com",
-        website: "https://taplink.cc/dwica"
-    }
-}
-```
+- 📍 Lokasi: Indonesia, Jawa Timur, Kota Blitar
+- 💼 Status: Newbiee Developer
+- 📚 Sedang Belajar: HTML, CSS, JavaScript, PHP, Laravel, MySQL/PostgreSQL
+- 📧 Email: dwicaadiwijayanto2@gmail.com
+- 🌐 Website: https://taplink.cc/dwica
 
 ## 🎯 Skill & Teknologi
 
@@ -42,11 +36,6 @@ const skills = {
 
 ### 🎮 Snake Game
 ![Snake animation](https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg)
-
-### 🎲 Mini Game
-<a href="https://github.com/Dwica2004?tab=repositories&q=game&type=&language=&sort=">
-<img width="500" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game">
-</a>
 
 </div>
 
