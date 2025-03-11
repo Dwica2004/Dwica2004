@@ -6,6 +6,10 @@
 
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
 ## 👨‍💻 Tentang Saya
 
 - 📍 Lokasi: Indonesia, Jawa Timur, Kota Blitar
@@ -14,23 +18,35 @@
 - 📧 Email: dwicaadiwijayanto2@gmail.com
 - 🌐 Website: https://taplink.cc/dwica
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+</td>
+<td width="50%">
+
 ## 🎯 Skill & Teknologi
 
-<div align="center">
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 💻 Tech Stack
-```js
-const skills = {
-    web: ['HTML', 'CSS', 'JavaScript', 'PHP'],
-    framework: ['Laravel'],
-    database: ['MySQL', 'PostgreSQL'],
-    tools: ['Git', 'VS Code']
-}
-```
+### ⚡ Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-</div>
+### 🛢️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🎲 Mari Bermain!
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## 🎲 Game Zone!
 
 <div align="center">
 
