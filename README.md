@@ -89,7 +89,9 @@
 > Notes, PoCs, and audit-style experiments
 
 ### 🌐 Web Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dwica2004&repo=ZeyStore&theme=radical)](https://github.com/Dwica2004/ZeyStore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dwica2004&repo=Solana-Ghost-Code-Detective&theme=radical)](https://github.com/Dwica2004/Solana-Ghost-Code-Detective)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dwica2004&repo=endless-sentinel&theme=radical)](https://github.com/Dwica2004/endless-sentinel)
 
 </div>
 
